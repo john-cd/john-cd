@@ -1,3 +1,3 @@
 # Follow-ups
 
-- [ ] Curate the profile README with links to the projects and contact details that should be featured publicly.
+- [x] Curate the profile README with links to all public repositories, a high-level summary of private project work, and LinkedIn as the only contact link.
