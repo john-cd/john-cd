@@ -1,0 +1,13 @@
+# Keep the profile README available to AI tools; skip only local state and secrets.
+.git/
+.worktrees/
+.idea/
+.vscode/
+build/
+dist/
+coverage/
+.env
+.env.*
+secrets/
+*.key
+*.pem

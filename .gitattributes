@@ -1,0 +1,15 @@
+# Normalize text files to LF across platforms.
+* text=auto eol=lf
+
+# Keep common binary assets byte-for-byte.
+*.gif binary
+*.ico binary
+*.jpeg binary
+*.jpg binary
+*.pdf binary
+*.png binary
+*.svg binary
+*.webp binary
+*.woff binary
+*.woff2 binary
+*.zip binary

@@ -1,0 +1,17 @@
+# Exclude version-control data and local-only state from any future build context.
+.git
+.worktrees
+.idea
+.vscode
+
+# Exclude local credentials and generated output.
+.env
+.env.*
+!.env.example
+!.env.*.example
+secrets
+*.key
+*.pem
+build
+dist
+coverage
