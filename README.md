@@ -1,3 +1,5 @@
+<!-- TODO Reviewed ??-??-2026. -->
+
 # John Cruchon-Dupeyrat
 
 I work across data engineering, search, machine learning, and software architecture. My public

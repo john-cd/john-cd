@@ -1,3 +1,5 @@
+// TODO Reviewed ??-??-2026.
+
 // Format maintained documentation and configuration files.
 {
   "$schema": "https://dprint.dev/schemas/v0.json",
